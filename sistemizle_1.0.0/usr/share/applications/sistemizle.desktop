@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Sistem İzle
+Comment=CPU, RAM ve Sıcaklık Takibi
+Exec=/usr/bin/sistemizle
+Icon=utilities-system-monitor
+Type=Application
+Categories=System;Monitor;
+Terminal=false

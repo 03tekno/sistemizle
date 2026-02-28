@@ -1,5 +1,7 @@
 # sistemizle
+
 Sistemİzle, sistem kaynaklarını (CPU, RAM, GPU, Sıcaklıklar) şık ve minimalist bir arayüzle takip etmenizi sağlayan PyQt6 tabanlı bir masaüstü widget'ıdır. Pardus ve diğer Linux dağıtımları başta olmak üzere tüm masaüstü ortamlarında performans takibi için tasarlanmıştır.
+
 ✨ Temel Özellikler
 
 Esnek Görünüm: Sağ tık menüsü ile anında Dikey veya Yatay yerleşim modları arasında geçiş yapın.
